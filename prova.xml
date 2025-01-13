@@ -1,3 +1,6 @@
 <testo>
 questo è un testo di prova che permette di vedere come XML è simile ad HTML
+    <sottotesto>
+        Bellissimo ma vediamo se va bene
+    </sottotesto>
 </testo>
