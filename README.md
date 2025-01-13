@@ -1,5 +1,5 @@
 # Progetto Esempio
-
+(shell.png)
 Un fantastico progetto per dimostrare l'uso di Markdown su GitHub.
 
 ## Caratteristiche
