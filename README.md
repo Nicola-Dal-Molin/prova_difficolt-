@@ -1,5 +1,6 @@
 # Progetto Esempio
-!(shell.png)
+![Logo del progetto](shell.png)
+
 Un fantastico progetto per dimostrare l'uso di Markdown su GitHub.
 
 ## Caratteristiche
